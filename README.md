@@ -13,6 +13,7 @@
     Login admin - username : admin123 - password : admin123
     Login user - username : user123 - password : user123
     selesai deh! ooiya ini maksimal menggunakan PHP 7.2 yaa.. mohon maaf sekali sob!
+    Login dengan email : admin, Password : admin.
 
 # Fitur Aplikasi :
 
